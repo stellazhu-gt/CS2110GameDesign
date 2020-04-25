@@ -13,13 +13,13 @@ Ok. Time to introduce my silly little game!:raised_hands:<br />
  (up till now, it can only be loaded in docker //CS2110 mystery platform)<br />
 First of all, you'll be led into the first page of the game. *the welcome game!*<br />
 You can see a page like this :point_down:<br />
-![welcome page](Screen Shot 2020-04-03 at 10.39.04 PM.png)<br />
+![welcome page](https://github.com/stellazhu334/CS2110GameDesign/blob/master/Screen%20Shot%202020-04-03%20at%2010.39.04%20PM.png)<br />
 In this page, you can just hit *Start* on GameBoy or *Enter* on keyboard.<br />
 (The button may not be fast to reflect. Just be patient :)<br />
 
 Then! you'll be loaded with the main page, where you can play the game!!<br />
 You can see a page like this :point_down:<br />
-![game page](Screen Shot 2020-04-03 at 10.42.27 PM.png)<br />
+![game page](https://github.com/stellazhu334/CS2110GameDesign/blob/master/Screen%20Shot%202020-04-03%20at%2010.42.27%20PM.png)<br />
 In the page, you'll see four little ghosts.<br />
 They have distinct colors but they actually have same effects.<br />
 Ok. So now you have a body of Finn Mertens, which you can move around by pressing<br />
